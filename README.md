@@ -16,7 +16,7 @@ Atmojo 👨‍🎨](https://www.instagram.com/titotriatmojo/) and written by [M.
 1. Clone this repository to your computer
 2. `cd` to the cloned repository
 3. Run `yarn install` or `npm install`
-4. Then run `npx tailwindcss build src/assets/css/tailwind.css -o src/assets/css/tailwind.build.css`
+4. Then run `yarn build:tailwind`
 5. Finally start the app by run `yarn start`
 
 ### Download as package
@@ -24,7 +24,7 @@ Atmojo 👨‍🎨](https://www.instagram.com/titotriatmojo/) and written by [M.
 1. Download this repository as zip and extract to your computer
 2. `cd` to the extracted package
 3. Run `yarn install` or `npm install`
-4. Then run `npx tailwindcss build src/assets/css/tailwind.css -o src/assets/css/tailwind.build.css`
+4. Then run `yarn build:tailwind`
 5. Finally start the app by run `yarn start`
 
 ## 📦 Build
