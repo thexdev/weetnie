@@ -12,7 +12,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "react-scripts build",
+    "build": "yarn build:tailwind && react-scripts build",
     "build:tailwind": "NODE_ENV=production npx tailwindcss build src/assets/css/tailwind.css -o src/assets/css/tailwind.build.css",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
