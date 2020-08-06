@@ -1,5 +1,7 @@
 # 📂 Weetnie
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/d2e42bbc-88f6-4a30-914a-cb9b6018305b/deploy-status)](https://app.netlify.com/sites/weetnie/deploys)
+
 **Weetnie** is an OpenSource cloud storage manager template designed by [Tirto Tri
 Atmojo 👨‍🎨](https://www.instagram.com/titotriatmojo/) and written by [M. Akbar Nugroho 👨‍💻](https://twitter.com/thexdev). It's fully writen with [React.js ⚛](https://reactjs.org/) and styled with [TailwindCSS 🎨](https://tailwindcss.com/).
 
