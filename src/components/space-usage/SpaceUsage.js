@@ -3,7 +3,7 @@ import Chart from "assets/img/illustration/chart.svg";
 
 const SpaceUsage = () => {
   return (
-    <div className="flex flex-wrap items-end content-end justify-center mt-6 relative h-32">
+    <div className="flex flex-wrap items-end content-end justify-center mt-6 relative h-40">
       <img src={Chart} alt="Space usage" className="absolute w-full" />
       <h3 className="w-full text-2xl text-center text-gray-800">
         10,5 <small className="text-blue-600">GB</small>
